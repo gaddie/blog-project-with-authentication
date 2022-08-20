@@ -14,6 +14,7 @@ from flask_gravatar import Gravatar
 from forms import CreatePostForm, RegisterForm, LoginForm, CommentForm
 from distutils.log import error
 from flask_gravatar import Gravatar
+import os
 
 
 
